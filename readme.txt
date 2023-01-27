@@ -1,0 +1,7 @@
+- Deve ser usada alocacao dinamica para a(s) matriz(es). - IMPLEMENTADO;
+- O programa deve ser organizado em diferentes arquivos e funcoes. - IMPLEMENTADO;
+- Deve ser contado o tempo decorrido desde o inicio do jogo.- IMPLEMENTADO;
+- Ler a dimensao da matriz; - IMPLEMENTADO;
+- Ler a quantidade de cada tipo de navio; - IMPLEMENTADO;
+- Dispor tais navios (sem colisao) aleatoriamente no tabuleiro; - IMPLEMENTADO;
+- Possibilitar ao jogador jogar (sozinho ou contra o computador).- IMPLEMENTADO;
